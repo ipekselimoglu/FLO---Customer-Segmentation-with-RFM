@@ -28,7 +28,7 @@
 
 ***RFM metriklerinin birbirleri ile karşılaştırılabilmesi için RFM skorlarına dönüştürülmesi gerekir(1-5).
      
-     -R ->en küçük olan 5 
+    - R ->en küçük olan 5 
     - F ->en büyük olan 5
     - M ->en büyük olan 5
 
@@ -49,7 +49,6 @@
 ***CLTV Predictions:
    CLTV = (Expected Number of Transaction) * (Expected Avg. Profit) = (BG/NBD Model) * (Gamma Gamma Submodel)
    Hesaplamalar önce bütün kitlenin davranışları üzerinden yapılır ve model kurulur, sonra model kişiselleştirilir.
-
    -BG(beta geometric)/NBD(native binomial distribution) : Amaç olasılık dağılımları ile genel kitlenin satın alma davranışlarını modelleyip bunları kişilere indirgemek.
 
    -BG/NBD modeli, müşteri satın alma davranışını iki aşamalı bir süreç olarak ele alır:
