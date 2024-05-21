@@ -5,11 +5,12 @@
    - Conversion Rate
    - Growth Rate
 
-# Analysis of Cohort :
+# Analysis of Cohort 
      Bir grup insanı belirli bir kritere göre sınıflandırarak, bu grupların zaman içindeki davranışlarını ve
      özelliklerini inceleyen bir analiz yöntemidir. Genellikle müşteri davranışları, kullanıcı deneyimi, ürün
      performansı gibi alanlarda kullanılır. Cohort analizi, gruplar arasındaki farklılıkları ve değişimleri
-     belirlemek, benzer grupların birbirleriyle karşılaştırılmasını sağlamak ve uzun vadeli trendleri tanımlamak için kullanılır.
+     belirlemek, benzer grupların birbirleriyle karşılaştırılmasını sağlamak ve uzun vadeli trendleri 
+     tanımlamak için kullanılır.
 
 ***RFM :
      Müşteri segmentasyonunda kullanılan önemli bir analiz yöntemidir. RFM analizi, müşterileri üç ana kriter olan Recency (Yenilik),
@@ -35,9 +36,6 @@
     -Monetary (harcama miktarı), müşterilerin alışverişlerinin parasal değerini ifade eder. Ancak, yüksek harcama yapan müşteriler her zaman en sadık
      veya en sık alışveriş yapan müşteriler olmayabilir. Harcama miktarı, kişisel gelir, ihtiyaçlar ve alışveriş alışkanlıkları gibi birçok faktörden etkilenir
      ve bu nedenle daha değişkendir.
-
-
-
 
 
 
