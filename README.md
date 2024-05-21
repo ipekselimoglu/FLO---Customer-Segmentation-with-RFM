@@ -1,4 +1,5 @@
 #RFM
+
 ***KPI (Key Performance Indicators):
    - Acquisition(müşteri kazanma oraanı)
    - Retention(müşteri elde tutma oranı)
@@ -35,16 +36,16 @@
 ***RFM sokorları üzerinden segmentler oluşturulurken neden monatery kullanılmaz?
     -Monetary (harcama miktarı), müşterilerin alışverişlerinin parasal değerini ifade eder. Ancak, yüksek harcama yapan müşteriler her zaman en sadık
      veya en sık alışveriş yapan müşteriler olmayabilir. Harcama miktarı, kişisel gelir, ihtiyaçlar ve alışveriş alışkanlıkları gibi birçok faktörden
-    etkilenir ve bu nedenle daha değişkendir.
+     etkilenir ve bu nedenle daha değişkendir.
 
 ***CLV(Customer Lifetime Value):
    CLV veya Müşteri Yaşam Boyu Değeri, bir müşterinin işletme ile olan ilişkisi boyunca getireceği toplam kârın tahmin edilmesidir.
 
    CLTV = (Customer Value / Churn Rate) * Profit Margin
 
-   Customer Value = Avgerage order value * purchase frequency ( [Total Price(Kendi)/Total Transaction(hepsi)] * [Total Transction(kendi)/Total Number of Customers(hepsi)])
-   Churn Rate = 1 - Repeat Rate ( 1-  [Birden çok alışveriş yapan müşteri sayısı/tüm müşteri sayısı])
-   Profit Margin = Total price * PROFİT RATE(varsayılacak kar miktarı)
+   - Customer Value = Avgerage order value * purchase frequency ( [Total Price(Kendi)/Total Transaction(hepsi)] * [Total Transction(kendi)/Total Number of Customers(hepsi)])
+   - Churn Rate = 1 - Repeat Rate ( 1-  [Birden çok alışveriş yapan müşteri sayısı/tüm müşteri sayısı])
+   - Profit Margin = Total price * PROFİT RATE(varsayılacak kar miktarı)
 
 ***CLTV Predictions:
    CLTV = (Expected Number of Transaction) * (Expected Avg. Profit) = (BG/NBD Model) * (Gamma Gamma Submodel)
