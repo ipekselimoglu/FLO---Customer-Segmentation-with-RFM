@@ -27,11 +27,10 @@
      değeridir. Miktar kriterine göre, daha yüksek miktarlarda harcama yapan müşteriler daha yüksek bir puan alır.
 
 ***RFM metriklerinin birbirleri ile karşılaştırılabilmesi için RFM skorlarına dönüştürülmesi gerekir(1-5).
-     R ->en küçük olan 5 ,
      
-     F ->en büyük olan 5,
-     
-     M ->en büyük olan 5
+     -R ->en küçük olan 5 
+    - F ->en büyük olan 5
+    - M ->en büyük olan 5
 
 ***RFM sokorları üzerinden segmentler oluşturulurken neden monatery kullanılmaz?
     -Monetary (harcama miktarı), müşterilerin alışverişlerinin parasal değerini ifade eder. Ancak, yüksek harcama yapan müşteriler her zaman en sadık
