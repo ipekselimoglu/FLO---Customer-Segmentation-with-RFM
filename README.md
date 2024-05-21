@@ -1,5 +1,3 @@
-# RFM
-
 # KPI (Key Performance Indicators):
    - Acquisition(müşteri kazanma oraanı)
    - Retention(müşteri elde tutma oranı)
