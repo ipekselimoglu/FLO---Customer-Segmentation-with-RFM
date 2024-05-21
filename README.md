@@ -7,7 +7,7 @@
    - Conversion Rate
    - Growth Rate
 
-# ***Analysis of Cohort :
+# Analysis of Cohort :
      Bir grup insanı belirli bir kritere göre sınıflandırarak, bu grupların zaman içindeki davranışlarını ve
      özelliklerini inceleyen bir analiz yöntemidir. Genellikle müşteri davranışları, kullanıcı deneyimi, ürün
      performansı gibi alanlarda kullanılır. Cohort analizi, gruplar arasındaki farklılıkları ve değişimleri
