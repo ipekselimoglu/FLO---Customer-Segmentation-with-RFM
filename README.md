@@ -28,7 +28,9 @@
 
 ***RFM metriklerinin birbirleri ile karşılaştırılabilmesi için RFM skorlarına dönüştürülmesi gerekir(1-5).
      R ->en küçük olan 5 ,
+     
      F ->en büyük olan 5,
+     
      M ->en büyük olan 5
 
 ***RFM sokorları üzerinden segmentler oluşturulurken neden monatery kullanılmaz?
